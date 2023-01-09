@@ -1,0 +1,7 @@
+# Prevent Directory Listing
+
+Options -Indexes
+
+#Echo Erorr Message
+
+ErrorDocument 403 "Go Away You Cant Enter This Directory"
